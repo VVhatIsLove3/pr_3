@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/pr_3_1.dir/pr_3_1.c.o  -o pr_3_1 
